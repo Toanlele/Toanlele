@@ -2,7 +2,7 @@
 
 一个努力学习的网络安全爱好者
 * Blog: https://toanle.cn
-* liveBlog: https://blog.toanle.cn
+* Life Blog: https://blog.toanle.cn
 ### Github stats
 ![Toanle](https://github-readme-stats.vercel.app/api?username=Toanlele&show_icons=true&theme=tokyonight&&count_private=true )
 ### Visitors
