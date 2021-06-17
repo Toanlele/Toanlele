@@ -4,7 +4,7 @@
 * Blog: https://toanle.cn
 * Life Blog: https://blog.toanle.cn
 ### Github stats
-![Toanle](https://github-readme-stats.vercel.app/api?username=Toanlele&show_icons=true&theme=tokyonight&&count_private=true )
+![Toanle](https://github-readme-stats.vercel.app/api?username=Toanlele&show_icons=true&theme=synthwave&&count_private=true )
 ### Visitors
 ![Toanle](https://profile-counter.glitch.me/Toanlele/count.svg)
 
