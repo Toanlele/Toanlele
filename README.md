@@ -10,9 +10,9 @@
 
 ### Visitors
 ![Toanle](https://profile-counter.glitch.me/Toanlele/count.svg)
-
+ 🌱 I’m currently learning ...
 ### I can
-![Toanlele](https://github-readme-stats.vercel.app/api/top-langs/?username=Toanlele&langs_count=8)](https://github.com/Toanlele/github-readme-stats)
+![Toanlele](https://github-readme-stats.vercel.app/api/top-langs/?username=Toanlele&langs_count=8)
 
 <!--
 **Toanlele/Toanlele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
